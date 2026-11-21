@@ -1,0 +1,20 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "dyeworkshop:turtle_scute",
+        "dyeable": {
+          "color_when_undyed": -1
+        }
+      }
+    ],
+    "humanoid_baby": [
+      {
+        "texture": "dyeworkshop:turtle_scute",
+        "dyeable": {
+          "color_when_undyed": -1
+        }
+      }
+    ]
+  }
+}

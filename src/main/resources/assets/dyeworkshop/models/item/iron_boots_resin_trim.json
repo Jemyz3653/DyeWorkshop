@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/iron_boots_resin_trim",
+  "textures": {
+    "layer0": "dyeworkshop:item/iron_boots"
+  }
+}

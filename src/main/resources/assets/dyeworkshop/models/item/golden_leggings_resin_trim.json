@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/golden_leggings_resin_trim",
+  "textures": {
+    "layer0": "dyeworkshop:item/golden_leggings"
+  }
+}

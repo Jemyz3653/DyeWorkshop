@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/golden_boots_lapis_trim",
+  "textures": {
+    "layer0": "dyeworkshop:item/golden_boots"
+  }
+}

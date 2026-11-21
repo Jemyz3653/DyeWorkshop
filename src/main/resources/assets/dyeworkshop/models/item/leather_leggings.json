@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/leather_leggings",
+  "textures": {
+    "layer0": "dyeworkshop:item/leather_leggings"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "layers": {
+    "horse_body": [
+      {
+        "texture": "dyeworkshop:gold",
+        "dyeable": {
+          "color_when_undyed": -1
+        }
+      }
+    ],
+    "humanoid": [
+      {
+        "texture": "dyeworkshop:gold",
+        "dyeable": {
+          "color_when_undyed": -1
+        }
+      }
+    ],
+    "humanoid_baby": [
+      {
+        "texture": "dyeworkshop:gold",
+        "dyeable": {
+          "color_when_undyed": -1
+        }
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "dyeworkshop:gold",
+        "dyeable": {
+          "color_when_undyed": -1
+        }
+      }
+    ],
+    "nautilus_body": [
+      {
+        "texture": "dyeworkshop:gold",
+        "dyeable": {
+          "color_when_undyed": -1
+        }
+      }
+    ]
+  },
+  "trim_overrides": [
+    {
+      "palette": "minecraft:trim/gold_darker",
+      "when": {
+        "material": "minecraft:gold"
+      }
+    }
+  ]
+}

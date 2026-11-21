@@ -1,0 +1,28 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "dyeworkshop:chainmail",
+        "dyeable": {
+          "color_when_undyed": -1
+        }
+      }
+    ],
+    "humanoid_baby": [
+      {
+        "texture": "dyeworkshop:chainmail",
+        "dyeable": {
+          "color_when_undyed": -1
+        }
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "dyeworkshop:chainmail",
+        "dyeable": {
+          "color_when_undyed": -1
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/golden_helmet_iron_trim",
+  "textures": {
+    "layer0": "dyeworkshop:item/golden_helmet"
+  }
+}

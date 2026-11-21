@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/chainmail_chestplate_netherite_trim",
+  "textures": {
+    "layer0": "dyeworkshop:item/chainmail_chestplate"
+  }
+}

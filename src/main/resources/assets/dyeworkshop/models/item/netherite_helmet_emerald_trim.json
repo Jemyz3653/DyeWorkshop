@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/netherite_helmet_emerald_trim",
+  "textures": {
+    "layer0": "dyeworkshop:item/netherite_helmet"
+  }
+}

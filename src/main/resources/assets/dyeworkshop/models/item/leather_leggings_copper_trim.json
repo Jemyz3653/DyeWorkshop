@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/leather_leggings_copper_trim",
+  "textures": {
+    "layer0": "dyeworkshop:item/leather_leggings"
+  }
+}

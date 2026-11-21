@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/diamond_leggings_redstone_trim",
+  "textures": {
+    "layer0": "dyeworkshop:item/diamond_leggings"
+  }
+}

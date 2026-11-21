@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/iron_leggings_iron_trim",
+  "textures": {
+    "layer0": "dyeworkshop:item/iron_leggings"
+  }
+}

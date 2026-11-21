@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/copper_boots_resin_trim",
+  "textures": {
+    "layer0": "dyeworkshop:item/copper_boots"
+  }
+}

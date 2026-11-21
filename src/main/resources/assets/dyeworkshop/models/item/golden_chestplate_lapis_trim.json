@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/golden_chestplate_lapis_trim",
+  "textures": {
+    "layer0": "dyeworkshop:item/golden_chestplate"
+  }
+}

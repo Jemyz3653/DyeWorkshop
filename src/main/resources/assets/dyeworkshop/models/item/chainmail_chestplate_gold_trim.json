@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/chainmail_chestplate_gold_trim",
+  "textures": {
+    "layer0": "dyeworkshop:item/chainmail_chestplate"
+  }
+}

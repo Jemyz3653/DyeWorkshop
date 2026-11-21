@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/diamond_boots_quartz_trim",
+  "textures": {
+    "layer0": "dyeworkshop:item/diamond_boots"
+  }
+}

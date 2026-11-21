@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/leather_helmet_quartz_trim",
+  "textures": {
+    "layer0": "dyeworkshop:item/leather_helmet"
+  }
+}

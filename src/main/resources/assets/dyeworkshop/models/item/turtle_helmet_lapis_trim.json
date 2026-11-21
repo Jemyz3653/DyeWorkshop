@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/turtle_helmet_lapis_trim",
+  "textures": {
+    "layer0": "dyeworkshop:item/turtle_helmet"
+  }
+}

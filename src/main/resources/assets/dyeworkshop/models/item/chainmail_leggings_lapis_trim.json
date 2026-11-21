@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/chainmail_leggings_lapis_trim",
+  "textures": {
+    "layer0": "dyeworkshop:item/chainmail_leggings"
+  }
+}

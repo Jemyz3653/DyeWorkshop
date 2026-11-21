@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/copper_chestplate_gold_trim",
+  "textures": {
+    "layer0": "dyeworkshop:item/copper_chestplate"
+  }
+}

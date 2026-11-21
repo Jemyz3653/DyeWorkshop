@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "SSS",
+    "S S",
+    "P P"
+  ],
+  "key": {
+    "S": "minecraft:stick",
+    "P": "minecraft:oak_planks"
+  },
+  "result": {
+    "id": "dyeworkshop:drying_rack"
+  }
+}

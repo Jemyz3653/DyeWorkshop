@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/leather_chestplate_netherite_trim",
+  "textures": {
+    "layer0": "dyeworkshop:item/leather_chestplate"
+  }
+}

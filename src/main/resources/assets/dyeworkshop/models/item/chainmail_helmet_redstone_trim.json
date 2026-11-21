@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/chainmail_helmet_redstone_trim",
+  "textures": {
+    "layer0": "dyeworkshop:item/chainmail_helmet"
+  }
+}

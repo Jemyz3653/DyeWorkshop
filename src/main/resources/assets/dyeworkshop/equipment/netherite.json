@@ -1,0 +1,52 @@
+{
+  "layers": {
+    "horse_body": [
+      {
+        "texture": "dyeworkshop:netherite",
+        "dyeable": {
+          "color_when_undyed": -1
+        }
+      }
+    ],
+    "humanoid": [
+      {
+        "texture": "dyeworkshop:netherite",
+        "dyeable": {
+          "color_when_undyed": -1
+        }
+      }
+    ],
+    "humanoid_baby": [
+      {
+        "texture": "dyeworkshop:netherite",
+        "dyeable": {
+          "color_when_undyed": -1
+        }
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "dyeworkshop:netherite",
+        "dyeable": {
+          "color_when_undyed": -1
+        }
+      }
+    ],
+    "nautilus_body": [
+      {
+        "texture": "dyeworkshop:netherite",
+        "dyeable": {
+          "color_when_undyed": -1
+        }
+      }
+    ]
+  },
+  "trim_overrides": [
+    {
+      "palette": "minecraft:trim/netherite_darker",
+      "when": {
+        "material": "minecraft:netherite"
+      }
+    }
+  ]
+}

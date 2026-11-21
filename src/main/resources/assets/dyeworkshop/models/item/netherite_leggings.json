@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/netherite_leggings",
+  "textures": {
+    "layer0": "dyeworkshop:item/netherite_leggings"
+  }
+}

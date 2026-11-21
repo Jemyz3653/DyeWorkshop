@@ -1,0 +1,52 @@
+{
+  "layers": {
+    "horse_body": [
+      {
+        "texture": "dyeworkshop:diamond",
+        "dyeable": {
+          "color_when_undyed": -1
+        }
+      }
+    ],
+    "humanoid": [
+      {
+        "texture": "dyeworkshop:diamond",
+        "dyeable": {
+          "color_when_undyed": -1
+        }
+      }
+    ],
+    "humanoid_baby": [
+      {
+        "texture": "dyeworkshop:diamond",
+        "dyeable": {
+          "color_when_undyed": -1
+        }
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "dyeworkshop:diamond",
+        "dyeable": {
+          "color_when_undyed": -1
+        }
+      }
+    ],
+    "nautilus_body": [
+      {
+        "texture": "dyeworkshop:diamond",
+        "dyeable": {
+          "color_when_undyed": -1
+        }
+      }
+    ]
+  },
+  "trim_overrides": [
+    {
+      "palette": "minecraft:trim/diamond_darker",
+      "when": {
+        "material": "minecraft:diamond"
+      }
+    }
+  ]
+}

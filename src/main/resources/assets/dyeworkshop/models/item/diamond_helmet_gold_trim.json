@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/diamond_helmet_gold_trim",
+  "textures": {
+    "layer0": "dyeworkshop:item/diamond_helmet"
+  }
+}

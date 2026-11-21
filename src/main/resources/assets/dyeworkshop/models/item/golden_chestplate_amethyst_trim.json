@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/golden_chestplate_amethyst_trim",
+  "textures": {
+    "layer0": "dyeworkshop:item/golden_chestplate"
+  }
+}

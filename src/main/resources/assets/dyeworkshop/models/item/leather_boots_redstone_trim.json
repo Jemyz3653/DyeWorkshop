@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/leather_boots_redstone_trim",
+  "textures": {
+    "layer0": "dyeworkshop:item/leather_boots"
+  }
+}

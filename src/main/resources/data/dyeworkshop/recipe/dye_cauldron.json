@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:cauldron",
+    "minecraft:crafting_table",
+    "minecraft:iron_ingot"
+  ],
+  "result": {
+    "id": "dyeworkshop:dye_cauldron"
+  }
+}

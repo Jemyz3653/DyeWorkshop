@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "dyeworkshop",
+  "version": "${version}",
+  "name": "Dye Workshop",
+  "description": "Soak armor in a dye cauldron and hang it on a drying rack to finish coloring it.",
+  "authors": [
+    "Detemkur-Studios"
+  ],
+  "contributors": [
+    "ChatGPT by OpenAI"
+  ],
+  "license": "MIT",
+  "environment": "*",
+  "icon": "assets/dyeworkshop/icon.png",
+  "entrypoints": {
+    "main": [
+      "studio.detemkur.dyeworkshop.DyeWorkshop"
+    ],
+    "client": [
+      "studio.detemkur.dyeworkshop.DyeWorkshopClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.19.5",
+    "minecraft": "26.3",
+    "java": ">=25",
+    "fabric-api": ">=0.163.0+26.3"
+  }
+}
